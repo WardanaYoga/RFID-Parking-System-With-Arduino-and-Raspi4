@@ -10,7 +10,7 @@
 7. jika tidak ada restart raspi dengan sudo reboot
 8. lalu cek lagi
 
-**INSTALASI LIBARY RFID RC522**
+**INSTALASI LIBARY RFID MFRC522**
 1. sudo apt update
 2. sudo apt upgrade
 3. python3 pip install spidev
