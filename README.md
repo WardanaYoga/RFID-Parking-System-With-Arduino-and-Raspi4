@@ -18,7 +18,7 @@
    Raspberry Pi dapat berinteraksi dengan RFID RC522
 4. python3 -m pip install mfrc522
 
-SDA connects to Pin 24.
+SDA connects to Pin 24
 SCK connects to Pin 23.
 MOSI connects to Pin 19.
 MISO connects to Pin 21.
